@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/quoc-luu-phan-1581ab1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quoc-luu-phan-1581ab1bb" height="30" width="40" /></a>
 <a href="https://fb.com/phanquocluu.29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phanquocluu.29" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@quocluuphan7498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@quocluuphan7498" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@quocluuphan7498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@quocluuphan7498" height="30" width="40" /></a>
 </p>
 
 
